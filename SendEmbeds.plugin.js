@@ -5,6 +5,7 @@
  * @description Allows sending Embeds with own Account
  * @website https://github.com/QDaves/BBT-Embed
  * @source https://github.com/Fraserbc/BetterDiscord-Embeds
+ * @updateUrl https://raw.githubusercontent.com/QDaves/BBT-Embed/main/SendEmbeds.plugin.js
  */
 const config = {
     info: {
