@@ -33,7 +33,7 @@ The title should be enclosed in double quotes and there needs to be a `#` infron
 Here's an example:
 
 ```
-/e title:  Your title Here
+/e title: Your title Here
 description: Embed Description Here
 url: https://discordapp.com
 color: #788cd4
