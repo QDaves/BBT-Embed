@@ -60,6 +60,7 @@ Create an issue with all the details you can give and I will respond as soon as 
 
 # Credit
 
-I would like to give credit to Septeract, https://github.com/hepteract/, as he originally wrote the code this is based off. Here is the original gist for anyone interested.
+I would like to give credit to Septeract & QWERTxD, https://github.com/QWERTxD , https://github.com/hepteract/, as they originally wrote the code this is based off. Here is the original gist for anyone interested.
 
 https://gist.github.com/hepteract/8d9199a6a154dd32a1c4ced97de76043
+https://github.com/Fraserbc/BetterDiscord-Embeds
