@@ -46,12 +46,12 @@ author: Author Name here
 author_url: https://discordapp.com
 author_icon: https://i.imgur.com/PdBoyGk.png
 ```
-#How to Use
-Simply copy the example field and send that message where you want to have the embed
+# How to Use
+Simply copy the example field and send that message where you want to have the embed.
 
 # FAQ
 
-## How do I do multiline embeds?
+How do I do multiline embeds?
 
 The same way you do it normally with `Shift + Enter`.
 
