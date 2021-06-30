@@ -55,6 +55,35 @@ How do I do multiline embeds?
 
 The same way you do it normally with `Shift + Enter`.
 
+How use Hyperlink and etc?
+
+Hyperlink:
+`[TextHere](Link Here)`
+
+Italics:
+`*italics* or _italics_`
+
+Underline italics:
+`__*underline italics*__`
+
+Bold:
+`**Bold**`
+
+Underline bold:
+`__**underline bold**__`
+
+Bold Italics:
+`***bold italics***`
+
+underline bold italics:
+`__***underline bold italics***__`
+
+Underline:
+`__underline__`
+
+Strikethrough
+`~~Strikethrough~~`
+
 ## It's not working and I don't know why!?
 
 Create an issue with all the details you can give and I will respond as soon as possible.
