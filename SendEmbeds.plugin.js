@@ -13,7 +13,7 @@
         authors: [
             {
                 name: 'Fraser Price',
-                github_username: 'Fraserbc'
+                github_username: 'QDaves'
             }
         ],
         version: '1.0.1',
