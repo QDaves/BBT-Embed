@@ -2,7 +2,7 @@
 
 A plugin for Better Discord that allows you to send fancy embed messages like this:
 
-![Embed Example](https://i.imgur.com/jlxSv0z.png)
+![Embed Example](https://i.imgur.com/mewyPFj.png)
 
 # Disclaimer!
 ## It is possible that Discord will ban and delete your account for using this plugin
