@@ -10,8 +10,7 @@ However its against Discord Terms of Service, so use it for own risk.
 I can not be held responsible if this happens. Using custom clients and plugins is a breach of Discord's Terms of Service.
 
 # Installation
-* Clone this repository
-* Copy SendEmbeds.plugin.js to your plugins folder, you can access this by going into your user settings, plugins and clicking "Open Plugin Folder"
+* Copy SendEmbeds.plugin.js to your plugins folder of BetterDiscord, you can access this by going into your user settings, plugins and clicking "Open Plugin Folder"
 
 # Usage
 ```
@@ -34,20 +33,21 @@ The title should be enclosed in double quotes and there needs to be a `#` infron
 Here's an example:
 
 ```
-/e title: My cool title
-description: Cool embeds
-Wow! Multiline
+/e title:  Your title Here
+description: Embed Description Here
 url: https://discordapp.com
-color: #1243ff
+color: #788cd4
 timestamp: true
-footer_image: https://cdn.discordapp.com/embed/avatars/0.png
-footer: WOW! Footers!
-thumbnail: https://cdn.discordapp.com/embed/avatars/0.png
-image: https://cdn.discordapp.com/embed/avatars/0.png
-author: ABCD
+footer_image: https://i.imgur.com/PdBoyGk.png
+footer: Footer Text Here
+thumbnail: https://i.imgur.com/PdBoyGk.png
+image: https://i.imgur.com/PdBoyGk.png
+author: Author Name here
 author_url: https://discordapp.com
-author_icon: https://cdn.discordapp.com/embed/avatars/0.png
+author_icon: https://i.imgur.com/PdBoyGk.png
 ```
+#How to Use
+Simply copy the example field and send that message where you want to have the embed
 
 # FAQ
 
