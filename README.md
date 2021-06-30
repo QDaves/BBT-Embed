@@ -75,7 +75,7 @@ Underline bold:
 Bold Italics:
 `***bold italics***`
 
-underline bold italics:
+Underline bold italics:
 `__***underline bold italics***__`
 
 Underline:
