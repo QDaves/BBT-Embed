@@ -5,7 +5,8 @@ A plugin for Better Discord that allows you to send fancy embed messages like th
 ![Embed Example](https://i.imgur.com/c1MxITK.png)
 
 # Disclaimer!
-## It is possible that Discord will ban and delete your account for using this plugin
+While using this Plugin you have a chance of you getting banned.
+However its against Discord Terms of Service, so use it for own risk.
 I can not be held responsible if this happens. Using custom clients and plugins is a breach of Discord's Terms of Service.
 
 # Installation
