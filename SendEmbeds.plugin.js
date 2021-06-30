@@ -12,7 +12,7 @@
         name: 'BBT-Embeds',
         authors: [
             {
-                name: 'Fraser Price',
+                name: 'QDave',
                 github_username: 'QDaves'
             }
         ],
