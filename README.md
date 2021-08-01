@@ -84,7 +84,7 @@ Underline:
 Strikethrough
 `~~Strikethrough~~`
 
-## It's not working and I don't know why!?
+## It's not working and I don't know why?
 
 Create an issue with all the details you can give and I will respond as soon as possible.
 
