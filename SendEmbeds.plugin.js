@@ -1,8 +1,9 @@
 /**
  * @name BBT-Embeds
  * @author QDave
- * @version 1.0.1
+ * @version 1.0.2
  * @description Allows sending Embeds with own Account
+ * @invite Jx38jNS
  * @website https://github.com/QDaves/BBT-Embed
  * @source https://github.com/Fraserbc/BetterDiscord-Embeds
  * @updateUrl https://raw.githubusercontent.com/QDaves/BBT-Embed/main/SendEmbeds.plugin.js
@@ -14,7 +15,7 @@ const config = {
             name: 'QDave',
             github_username: 'QDaves'
         }],
-        version: '1.0.1',
+        version: '1.0.2',
         description: 'Allows sending Embeds with own Account',
         github: 'https://github.com/QDaves/BBT-Embed',
         github_raw: 'https://raw.githubusercontent.com/QDaves/BBT-Embed/main/SendEmbeds.plugin.js'
